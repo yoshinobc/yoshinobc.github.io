@@ -1,4 +1,4 @@
-# Github Pages
+# [GitHub Pages](https://yoshinobc.github.io/)
 
 ## Edit
 
