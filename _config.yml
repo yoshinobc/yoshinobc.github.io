@@ -10,5 +10,10 @@ collections:
   chapters:
     output: true
 
+github:
+  is_project_page: true
+  repository_url: https://github.com/yoshinobc/yoshinobc.github.io
+github_username: yoshinobc
+
 exclude:
   - README.md
