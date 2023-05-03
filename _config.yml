@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+show_downloads: true
+
+lang: ja
+
+title: Takumi Tanabe
+description: 田邊拓実
+
+collections:
+  chapters:
+    output: true
+
+exclude:
+  - README.md
